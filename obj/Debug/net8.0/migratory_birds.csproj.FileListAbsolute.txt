@@ -1,0 +1,14 @@
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\bin\Debug\net8.0\migratory_birds.exe
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\bin\Debug\net8.0\migratory_birds.deps.json
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\bin\Debug\net8.0\migratory_birds.runtimeconfig.json
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\bin\Debug\net8.0\migratory_birds.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\bin\Debug\net8.0\migratory_birds.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\obj\Debug\net8.0\migratory_birds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\obj\Debug\net8.0\migratory_birds.AssemblyInfoInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\obj\Debug\net8.0\migratory_birds.AssemblyInfo.cs
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\obj\Debug\net8.0\migratory_birds.csproj.CoreCompileInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\obj\Debug\net8.0\migratory_birds.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\obj\Debug\net8.0\refint\migratory_birds.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\obj\Debug\net8.0\migratory_birds.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\obj\Debug\net8.0\migratory_birds.genruntimeconfig.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\migratory_birds\obj\Debug\net8.0\ref\migratory_birds.dll
